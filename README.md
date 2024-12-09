@@ -16,8 +16,10 @@
 # Запуск
 
 1. git clone git@github.com:takhmina1/Simple.git
-2. pip install -r req.txt
-3. Запустите `main.py` для взаимодействия с библиотекой через консоль.
+2. python3 -m venv venv
+3. . venv/bin/activate
+4. pip install -r req.txt
+5. Запустите `main.py` для взаимодействия с библиотекой через консоль.
 
 
 # python3 main.py
