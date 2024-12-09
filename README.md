@@ -15,7 +15,7 @@
 
 # Запуск
 
-1. git clone 
+1. git clone git@github.com:takhmina1/Simple.git
 2. Запустите `main.py` для взаимодействия с библиотекой через консоль.
 
 
